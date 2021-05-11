@@ -6,8 +6,8 @@
 
 .form {
   display: flex;
-  justify-content: center;
-  align-content: center;
+  justify-content: left;
+  align-content: left;
   flex-direction: column;
 }
 
