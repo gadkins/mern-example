@@ -65,7 +65,7 @@ class Form extends Component {
           label="Position"
         />
 
-        <Button variant="contained" color="primary" onClick={this.submit}> Submit </Button>
+        <Button variant="contained" color="green" onClick={this.submit}> Submit </Button>
 
       </form>
     );
